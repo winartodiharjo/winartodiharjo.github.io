@@ -10,6 +10,7 @@ body{
     color: #a9a9b3;
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
+    background:url('12.gif')
 }
 a{
     text-decoration: none;
