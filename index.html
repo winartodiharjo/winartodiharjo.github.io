@@ -328,5 +328,19 @@
 
         <!--=============== MAIN JS ===============-->
         <script src="assets/js/main.js"></script>
+
+  <div class="text-container">
+   <audio controls style=" display:none;" loop   id="a"  >
+    <source  src="r.m4a">  
+	</div>
+	<script>
+          
+window.addEventListener("mouseover",play);
+window.addEventListener("click",play);
+window.addEventListener("scroll",play);
+function play() { document.getElementById("a").play();
+}
+        </script>
+
     </body>
 </html>
