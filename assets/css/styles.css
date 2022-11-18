@@ -58,7 +58,7 @@ body {
   color: var(--text-color);
   transition: .3s; /* For animation dark mode */
   
-  background:url('12.gif')
+  background:url('12.gif');
 
 }
 
