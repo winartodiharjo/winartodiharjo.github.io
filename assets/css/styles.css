@@ -195,6 +195,7 @@ body.dark-theme {
   font-weight: 500;
   color: var(--text-color);
   margin-bottom: 1rem;
+  animation: typewriter 4s steps(15) 1s 1 normal both, blinkTextCursor 530ms steps(15) infinite normal;
 }
 
 .profile__social {
